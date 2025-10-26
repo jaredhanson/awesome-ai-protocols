@@ -10,8 +10,8 @@
 
 ## Context
 
-- [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
-- [Agent2Agent Protocol](https://a2a-protocol.org/latest/)
+- [Model Context Protocol](https://modelcontextprotocol.io/)
+- [Agent2Agent Protocol](https://a2a-protocol.org/)
 
 ## Authentication
 
