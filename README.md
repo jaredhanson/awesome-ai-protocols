@@ -13,5 +13,5 @@
 
 ## Payments
 
-- [Trusted Agent Protocol](https://developer.visa.com/capabilities/trusted-agent-protocol)
+- [Trusted Agent Protocol](https://developer.visa.com/capabilities/trusted-agent-protocol) - Authenticate [Visa](https://usa.visa.com/)-approved agents with commerce intent.
 - [KYAPay](https://www.kyapay.ai/)
