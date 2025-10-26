@@ -11,6 +11,7 @@
 ## Context
 
 - [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [Agent2Agent Protocol](https://a2a-protocol.org/latest/)
 
 ## Authentication
 
@@ -18,5 +19,7 @@
 
 ## Payments
 
+- [Agentic Commerce Protocol](https://www.agenticcommerce.dev/)
+- [Agent Payments Protocol](https://ap2-protocol.org/)
 - [Trusted Agent Protocol](https://developer.visa.com/capabilities/trusted-agent-protocol) - Authenticate [Visa](https://usa.visa.com/)-approved agents with commerce intent.
 - [KYAPay](https://www.kyapay.ai/)
