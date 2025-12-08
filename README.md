@@ -12,6 +12,7 @@
 
 - [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) - Connect AI applications to external systems.
 - [Agent2Agent Protocol](https://a2a-protocol.org/) (A2A) - Communication and collaboration between AI agents.
+- [Agent Communication Protocol](https://agentcommunicationprotocol.dev/) (ACP) - Connect AI agents, applications, and humans.  Now [merged](https://github.com/orgs/i-am-bee/discussions/5) with A2A.
 
 ## Authentication
 
