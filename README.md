@@ -10,8 +10,8 @@
 
 ## Context
 
-- [Model Context Protocol](https://modelcontextprotocol.io/) (MCP)
-- [Agent2Agent Protocol](https://a2a-protocol.org/) (A2A)
+- [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) - Connect AI applications to external systems.
+- [Agent2Agent Protocol](https://a2a-protocol.org/) (A2A) - Communication and collaboration between AI agents.
 
 ## Authentication
 
