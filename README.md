@@ -24,4 +24,4 @@
 - [Agent Payments Protocol](https://ap2-protocol.org/) (AP2) - AI-driven commerce.
 - [Trusted Agent Protocol](https://developer.visa.com/capabilities/trusted-agent-protocol) - Authenticate [Visa](https://usa.visa.com/)-approved agents with commerce intent.
 - [KYAPay](https://www.kyapay.ai/) - Identity-linked payment protocol for agent-to-agent and agent-to-service interactions.
-- [x402](https://www.x402.org/)
+- [x402](https://www.x402.org/) - Internet-native payments.
