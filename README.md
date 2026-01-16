@@ -20,7 +20,7 @@
 
 ## Payments
 
-- [Agentic Commerce Protocol](https://www.agenticcommerce.dev/)
+- [Agentic Commerce Protocol](https://www.agenticcommerce.dev/) - Commerce flows between buyers, AI agents, and businesses.
 - [Agent Payments Protocol](https://ap2-protocol.org/) (AP2)
 - [Trusted Agent Protocol](https://developer.visa.com/capabilities/trusted-agent-protocol) - Authenticate [Visa](https://usa.visa.com/)-approved agents with commerce intent.
 - [KYAPay](https://www.kyapay.ai/)
