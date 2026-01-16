@@ -4,9 +4,14 @@
 
 ## Contents
 
+- [Models](#models)
 - [Context](#context)
 - [Authentication](#authentication)
 - [Payments](#payments)
+
+## Models
+
+- [Open Responses](https://www.openresponses.org/) - Multi-provider LLM API based on the [OpenAI](https://openai.com/) [Responses API](https://platform.openai.com/docs/api-reference/responses).
 
 ## Context
 
